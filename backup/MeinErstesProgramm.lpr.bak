@@ -1,7 +1,7 @@
 program MeinErstesProgramm;
 
 begin
-  writeln('hello world');
+  writeln('hello worlt');
   readln();
 end.
 
