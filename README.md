@@ -1,10 +1,13 @@
 ﻿# Kempe
-PASCAL Programme
+MB:
 Kannst du den Fehler im Programm finden??
-Hello world
+<br/>
+RK: Hello world
 gruß kempe
-du hast den Fehler gefunden!!!
+<br/>
+MB: du hast den Fehler gefunden!!!
 warum ist MeinErstesProgramm.exe noch nicht geändert? ;-)
 gruß michel
-muss die .exe natürlich noch im compiler ändern
- 
+<br/>
+RK; muss die .exe natürlich noch im compiler ändern <br/>
+MB: verstehe  
