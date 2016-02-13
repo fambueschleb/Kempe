@@ -11,3 +11,4 @@ gruß michel
 <br/>
 RK; muss die .exe natürlich noch im compiler ändern <br/>
 MB: verstehe  
+Sorry: mir fiel heute Nacht einfach das Wort "kompilieren" nicht ein
