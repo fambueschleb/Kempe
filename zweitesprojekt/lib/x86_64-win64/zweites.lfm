@@ -1,0 +1,90 @@
+object Form1: TForm1
+  Left = 1271
+  Height = 293
+  Top = 640
+  Width = 320
+  Caption = 'ZweitesProjekt'
+  ClientHeight = 293
+  ClientWidth = 320
+  OnActivate = FormActivate
+  LCLVersion = '1.4.4.0'
+  object Edit1: TEdit
+    Left = 16
+    Height = 23
+    Top = 8
+    Width = 207
+    HelpType = htKeyword
+    HelpKeyword = 'HTML/edit1.html'
+    TabOrder = 0
+    Text = 'Edit1 - Press F1 for help'
+  end
+  object Edit2: TEdit
+    Left = 16
+    Height = 23
+    Top = 48
+    Width = 207
+    HelpType = htKeyword
+    HelpKeyword = 'HTML/edit2.html'
+    TabOrder = 1
+    Text = 'Edit2 - Press F1 for help'
+  end
+  object HelpButton: TButton
+    Left = 232
+    Height = 25
+    Top = 8
+    Width = 82
+    BorderSpacing.InnerBorder = 4
+    Caption = 'Help'
+    OnClick = HelpButtonClick
+    TabOrder = 2
+  end
+  object Button1: TButton
+    Left = 18
+    Height = 29
+    Top = 80
+    Width = 92
+    Caption = 'file open'
+    OnClick = Button1Click
+    TabOrder = 3
+  end
+  object Button2: TButton
+    Left = 18
+    Height = 26
+    Top = 120
+    Width = 92
+    Caption = 'file save'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object Memo1: TMemo
+    Left = 25
+    Height = 81
+    Top = 152
+    Width = 279
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 5
+  end
+  object HTMLHelpDatabase1: THTMLHelpDatabase
+    BaseURL = 'file://html/'
+    AutoRegister = True
+    KeywordPrefix = 'HTML/'
+    left = 264
+    top = 112
+  end
+  object HTMLBrowserHelpViewer1: THTMLBrowserHelpViewer
+    BrowserParams = '%s'
+    AutoRegister = True
+    left = 264
+    top = 56
+  end
+  object OpenDialog1: TOpenDialog
+    left = 168
+    top = 80
+  end
+  object SaveDialog1: TSaveDialog
+    left = 168
+    top = 120
+  end
+end

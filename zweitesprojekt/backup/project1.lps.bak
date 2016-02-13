@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="zweites.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="35"/>
+        <CursorPos X="51" Y="47"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="12" HistoryIndex="11">
+      <Position1>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="58" Column="8" TopLine="9"/>
+      </Position1>
+      <Position2>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="65" Column="8" TopLine="16"/>
+      </Position2>
+      <Position3>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="66" Column="5" TopLine="17"/>
+      </Position3>
+      <Position4>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="67" Column="5" TopLine="18"/>
+      </Position4>
+      <Position5>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="68" Column="5" TopLine="19"/>
+      </Position5>
+      <Position6>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="75" Column="5" TopLine="26"/>
+      </Position6>
+      <Position7>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="74" Column="2" TopLine="32"/>
+      </Position7>
+      <Position8>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="75" Column="5" TopLine="32"/>
+      </Position8>
+      <Position9>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="48" Column="41" TopLine="30"/>
+      </Position9>
+      <Position10>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="85" Column="56" TopLine="42"/>
+      </Position10>
+      <Position11>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="61" Column="57"/>
+      </Position11>
+      <Position12>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="41" Column="20" TopLine="35"/>
+      </Position12>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
