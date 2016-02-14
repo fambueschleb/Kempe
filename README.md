@@ -9,6 +9,7 @@ MB: du hast den Fehler gefunden!!!
 warum ist MeinErstesProgramm.exe noch nicht geändert? ;-)
 gruß michel
 <br/>
-RK; muss die .exe natürlich noch im compiler ändern <br/>
+RK: muss die .exe natürlich noch im compiler ändern <br/>
 MB: verstehe  
-Sorry: mir fiel heute Nacht einfach das Wort "kompilieren" nicht ein
+RK: Sorry: mir fiel heute Nacht einfach das Wort "kompilieren" nicht ein
+MB: Order "zweitesprojekt" mit windows Funktionen. Achtung: "file save" schreibt brutal in das gewählte file
