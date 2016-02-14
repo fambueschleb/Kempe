@@ -13,3 +13,4 @@ RK: muss die .exe natürlich noch im compiler ändern <br/>
 MB: verstehe  <br/>
 RK: Sorry: mir fiel heute Nacht einfach das Wort "kompilieren" nicht ein<br/>
 MB: Order "zweitesprojekt" mit windows Funktionen. Achtung: "file save" schreibt brutal in das gewählte file<br/>
+only a test
