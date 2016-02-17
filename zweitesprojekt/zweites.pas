@@ -58,7 +58,7 @@ const
   {$ENDIF}
 begin
   HTMLHelpDatabase1.BaseURL:='file://html';
-  Edit1.Text:='Edit1 - Press '+HelpShortcut+' for help';
+  Edit1.Text:='Edit1 - Druecke '+HelpShortcut+' for help';
   Edit2.Text:='Edit2 - Press '+HelpShortcut+' for help';
 end;
 
@@ -81,7 +81,7 @@ end;
 
 procedure TForm1.Button3Click(Sender: TObject);
 begin
-OpenURL('http://radelnwandern.github.io/radlergruppe/radtouren-a.htm');
+OpenURL('http://radelnwandern.github.io/radlergruppe/radelnwandern.htm');
 end;
 
 procedure TForm1.FormActivate(Sender: TObject);

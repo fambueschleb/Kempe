@@ -8,9 +8,8 @@
       <Unit0>
         <Filename Value="project1.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <UsageCount Value="21"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
       </Unit0>
       <Unit1>
@@ -19,14 +18,15 @@
         <ComponentName Value="Form1"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
-        <TopLine Value="43"/>
-        <CursorPos Y="85"/>
-        <UsageCount Value="21"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="53"/>
+        <CursorPos X="67" Y="84"/>
+        <UsageCount Value="24"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="14" HistoryIndex="13">
+    <JumpHistory Count="17" HistoryIndex="16">
       <Position1>
         <Filename Value="zweites.pas"/>
         <Caret Line="58" Column="8" TopLine="9"/>
@@ -83,6 +83,18 @@
         <Filename Value="zweites.pas"/>
         <Caret Line="49" Column="51" TopLine="36"/>
       </Position14>
+      <Position15>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="25" TopLine="17"/>
+      </Position15>
+      <Position16>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="26" TopLine="17"/>
+      </Position16>
+      <Position17>
+        <Filename Value="zweites.pas"/>
+        <Caret Line="25" TopLine="17"/>
+      </Position17>
     </JumpHistory>
   </ProjectSession>
 </CONFIG>

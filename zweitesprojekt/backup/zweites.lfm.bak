@@ -1,7 +1,7 @@
 object Form1: TForm1
-  Left = 1271
+  Left = 144
   Height = 293
-  Top = 650
+  Top = 478
   Width = 320
   Caption = 'ZweitesProjekt'
   ClientHeight = 293
@@ -16,7 +16,7 @@ object Form1: TForm1
     HelpType = htKeyword
     HelpKeyword = 'HTML/edit1.html'
     TabOrder = 0
-    Text = 'Edit1 - Press F1 for help'
+    Text = 'Edit1 - druck F1 for help'
   end
   object Edit2: TEdit
     Left = 16
